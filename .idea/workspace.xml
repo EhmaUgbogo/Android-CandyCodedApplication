@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601368777740</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Map intent">
+      <created>1601372369611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601372369611</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +207,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added InfoActivity intent" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added InfoActivity intent" />
+    <MESSAGE value="Added Map intent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Map intent" />
   </component>
 </project>
